@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[abetterworld]]></title>
+        <description><![CDATA[abetterworld]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Aug 2016 20:08:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mitchell Interviews Dr. Eric Kaplan on Functional Neurology & Medicine]]></title>
+            <description><![CDATA[<article><h1>Mitchell Interviews Dr. Eric Kaplan on Functional Neurology & Medicine</h1><p>What innovative ways can heal such often seeming entrenched illnesses as Parkinson's, rheumatoid arthritis, autism, ADD/ADHD or Lyme disease? Today's show addresses these issues from the point of view of functional medicine and neurology through which new breakthroughs in understanding the role of the brain in health and disease has helped to uncover.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/262914c933e7661fbae8a629e41fbe3a/noop.jpg?input=http%3A%2F%2Fcdn2.btrstatic.com%2Fpics%2Fshowpics%2Flarge%2F276091_FNs2Gdj9.jpg"></article>]]></description>
+            <link>http://www.blogtalkradio.com/abetterworld/2016/07/20/mitchell-interviews-dr-eric-kaplan-on-functional-neurology-medicine</link>
+            <guid isPermaLink="false">e1d45f73-a58d-48f5-8871-4ac8c2b7512e</guid>
+            <pubDate>Tue, 16 Aug 2016 20:08:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
